@@ -92,7 +92,7 @@ export default function Home() {
       <section className="hero" id="inicio">
         <div className="hero-bg" />
         <div className="container hero-content">
-          <span className="hero-badge">✨ Dois Irmãos / RS — Espaço de Bem-estar</span>
+         
           <h1>
             Bem-estar e qualidade de vida para o seu <span>Corpo & Mente</span>
           </h1>
