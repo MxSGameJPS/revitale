@@ -81,6 +81,10 @@ img {
   box-shadow: 0 8px 24px rgba(37, 211, 102, 0.35);
 }
 
+.btn svg {
+  vertical-align: -2px;
+}
+
 .btn-whatsapp:hover {
   background: #1da851;
   transform: translateY(-2px);
